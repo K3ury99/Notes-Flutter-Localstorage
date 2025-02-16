@@ -1,16 +1,36 @@
-# practica_4
+# 🚀 Notes-Flutter-Localstorage
+> [!TIP]  
+> This is a project of a web page created in flutter using dart as the language.
 
-A new Flutter project.
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/8a424b60-4153-4643-8cd3-bd6183bdeb93" width="49%"></img>   
+  <img src="https://github.com/user-attachments/assets/8a424b60-4153-4643-8cd3-bd6183bdeb93" width="49%"></img> 
+</div>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 🗝 How to use it  
+You just have to download the zip file that is at the beginning of this repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "Flutter run -d Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
-A few resources to get you started if this is your first Flutter project:
+# ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Add, edit, and delete notes
+✅ Organized tab navigation (Lists, Notes, Profiles)
+✅ User profile display
+✅ Intuitive and modern UI
+✅ Notes cached with localStorage for quick access
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🐱‍👤 Contributing
+1. **Fork the repo**
+- **Create a new branch**
+   ```bash
+   git checkout -b feature-branch
+- **Commit changes**
+   ```bash
+  git commit -am 'Add new feature'
+
+# 🌠 Final Notes
+Thank you for visiting this project!🌌
+
+## 📔 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
