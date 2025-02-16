@@ -15,10 +15,15 @@ You just have to download the zip file that is at the beginning of this reposito
 # ✨ Features
 
 ✅ Add, edit, and delete notes
+
 ✅ Organized tab navigation (Lists, Notes, Profiles)
+
 ✅ User profile display
+
 ✅ Intuitive and modern UI
+
 ✅ Notes cached with localStorage for quick access
+
 
 # 🐱‍👤 Contributing
 1. **Fork the repo**
