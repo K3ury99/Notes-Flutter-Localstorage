@@ -1,0 +1,1 @@
+ C:\\Users\\Keury\\Desktop\\Notes-Flutter-Localstorage\\Notes-Flutter-Localstorage\\.dart_tool\\flutter_build\\5bab7e830685489a92630309dce7094f\\native_assets.yaml: 
