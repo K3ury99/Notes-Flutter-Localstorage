@@ -15,7 +15,7 @@ You just have to download the zip file that is at the beginning of this reposito
 # 🎈 Installation  
 Clone the repository:  
    ```bash  
-   git clone https://github.com/K3ury99/CRUD-Task-Log
+   git clone https://github.com/K3ury99/Notes-Flutter-Localstorage
    ```
 # 🎯 Usage
 To run the app, use the following command:
@@ -34,12 +34,24 @@ Once launched you will be able to place your tasks and edit them to your liking,
 
 # 🐱‍👤 Contributing
 1. **Fork the repo**
-- **Create a new branch**
-   ```bash
+2. **Create a new branch**
+   
+```bash
    git checkout -b feature-branch
-- **Commit changes**
-   ```bash
+```
+3. **Add Everything**
+```bash
+  git add .
+```
+4. **Commit changes**
+```bash
   git commit -am 'Add new feature'
+```
+5. **Pull & push to the origin**
+```bash
+  git pull
+  git push
+```
 
 # 🌠 Final Notes
 Thank you for visiting this project!🌌
