@@ -12,17 +12,24 @@
 # 🗝 How to use it  
 You just have to download the zip file that is at the beginning of this repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "Flutter run -d Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
+# 🎈 Installation  
+Clone the repository:  
+   ```bash  
+   git clone https://github.com/K3ury99/CRUD-Task-Log
+   ```
+# 🎯 Usage
+To run the app, use the following command:
+```bash
+flutter run -d Edge
+```
+Once launched you will be able to place your tasks and edit them to your liking, it has persistence so there is nothing to worry about!
+
 # ✨ Features
-
-✅ Add, edit, and delete notes
-
-✅ Organized tab navigation (Lists, Notes, Profiles)
-
-✅ User profile display
-
-✅ Intuitive and modern UI
-
-✅ Notes cached with localStorage for quick access
+✅ Add, edit, and delete notes  
+✅ Organized tab navigation (Lists, Notes, Profiles)  
+✅ User profile display  
+✅ Intuitive and modern UI  
+✅ Notes cached with localStorage for quick access  
 
 
 # 🐱‍👤 Contributing
